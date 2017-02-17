@@ -1,0 +1,2 @@
+# mathscripts
+scripts for equations
